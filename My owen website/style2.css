@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main
+     {
+         width: 100%;
+         background-image:linear-gradient(rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%),
+         url('file:///C:/Users/csp/Downloads/pexels-pixabay-268533.jpg');
+         background-position: center;
+         background-size: cover;
+         height: 109vh;
+
+     }
+
+.navbar
+       {
+           width: 1200px;
+           height:  75px;
+           margin: auto;
+       }
+
+
+
+ .icon
+      {
+          width: 200px;
+          float: left;
+          height: 70px;
+      }
+      
+ .logo
+      {
+          color: #ff7200;
+          font-size: 35px;
+          font-style: italic;
+          padding-left: 20px;
+          float: left;
+          padding-top: 10px;
+
+      }     
